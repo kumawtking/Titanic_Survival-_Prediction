@@ -1,1 +1,1 @@
-# Titanic-EDA-and-Survival-prediction
+# Titanic Survival Prediction
